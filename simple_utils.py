@@ -1,7 +1,7 @@
 # simple_utils.py - A tiny utility library
 
 def reverse_string(text):
-  """Reversese the characters in a string."""
+  """Reverseses te characters in a string."""
   return text[::-1]
 
 def count_words(sentence):
